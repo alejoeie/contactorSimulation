@@ -1,5 +1,5 @@
 # Contactor Simulation
-Here we simulate a contactor given is nominal values, using fenics, dolfin and mshr 
+Here we simulate a contactor given its nominal values, using fenics, dolfin and mshr 
 
 For running this script you need to install fenics previously in your computer.
 
